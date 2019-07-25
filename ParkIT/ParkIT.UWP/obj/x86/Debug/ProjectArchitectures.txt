@@ -1,0 +1,1 @@
+C:\Users\amira\source\repos\ParkIT\ParkIT\ParkIT.UWP\ParkIT.UWP.csproj;x86

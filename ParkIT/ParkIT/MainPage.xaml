@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ParkIT"
+             x:Class="ParkIT.MainPage">
+    <StackLayout x:Name="stackLayout" HorizontalOptions="Center" VerticalOptions="Center">
+        <Button Clicked="Post_Clicked" x:Name="post" Text="post"></Button>
+        <Button Clicked="Delete_Clicked" x:Name="delete" Text="delete"></Button>
+        <Label x:Name="RemotePathLabel" Text="aaaa"> </Label>
+    </StackLayout>
+</ContentPage>
