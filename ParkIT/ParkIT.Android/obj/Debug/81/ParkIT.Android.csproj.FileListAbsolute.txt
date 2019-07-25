@@ -232,6 +232,4 @@ C:\Users\amira\Desktop\ParkIT\ParkIT\ParkIT.Android\obj\Debug\81\android\assets\
 C:\Users\amira\Desktop\ParkIT\ParkIT\ParkIT.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\amira\Desktop\ParkIT\ParkIT\ParkIT.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\amira\Desktop\ParkIT\ParkIT\ParkIT.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
-C:\Users\amira\Desktop\ParkIT\ParkIT\ParkIT\bin\Debug\netstandard2.0\ParkIT.dll
-C:\Users\amira\Desktop\ParkIT\ParkIT\ParkIT.Android\bin\Debug\ParkIT.dll.mdb
 C:\Users\amira\Desktop\ParkIT\ParkIT\ParkIT.Android\obj\Debug\81\linksrc\ParkIT.dll.mdb

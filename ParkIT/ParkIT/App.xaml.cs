@@ -1,7 +1,6 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using ParkIT.Views;
 using Microsoft.WindowsAzure.MobileServices;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]

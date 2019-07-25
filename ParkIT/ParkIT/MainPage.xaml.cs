@@ -72,26 +72,30 @@ namespace ParkIT
             post1();
         }
 
-        private void post1()
+        private  void post1()
         {
-            traffic_sign s = new traffic_sign() { id = "aaa"};
+            var table = App._mobileServiceClient.GetTable<traffic_sign>();
+            traffic_sign s = new traffic_sign() { id = "bbb"};
 
-            App._mobileServiceClient.GetTable<traffic_sign>().InsertAsync(s);
-    
+             table.InsertAsync(s);
+
         }
 
         private void Delete_Clicked(object sender, EventArgs e)
         {
-            delete1();
+             delete1();
         }
 
-        private void delete1()
+        private  void delete1()
         {
-            traffic_sign s = new traffic_sign() { id = "aaa" };
+            var table = App._mobileServiceClient.GetTable<traffic_sign>();
+            traffic_sign s = new traffic_sign() { id = "bbb" };
 
-            App._mobileServiceClient.GetTable<traffic_sign>().DeleteAsync(s);
+             table.DeleteAsync(s);
 
         }
+
+
     }
 
 }
